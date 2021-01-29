@@ -1,0 +1,21 @@
+{
+  "Ga1ahad": {
+    "musicPath": "music/Ga1ahad/Ga1ahad_mp3",
+    "oszPath": "Resources/music/Ga1ahad/Ga1ahad_osz.osu"
+  },
+  "Area184": {
+    "musicPath": "music/Area184/Area184_mp3",
+    "oszPath": "Resources/music/Area184/Area184_osz.osu"
+  },
+  "Halcyon": {
+    "musicPath": "music/Halcyon/Halcyon_mp3",
+    "oszPath": "Resources/music/Halcyon/Halcyon_osz.osu"
+  },
+  "GouZhiQiShi": {
+    "musicPath": "music/GouZhiQiShi/GouZhiQiShi_mp3",
+    "oszPath": "Resources/music/GouZhiQiShi/GouZhiQiShi_osz.osu"
+  }
+}
+
+
+ 
